@@ -1,20 +1,42 @@
 # Hi, I'm Nisha Gaur 👋
 
-## Technical Content Writer
+**Technical Content Writer | Product Documentation | Technical Blogs | User Guides**
+
+---
+
+## Welcome
 
 Welcome to my professional portfolio.
 
-I create clear, user-focused technical content for web and mobile applications. My work includes product documentation, technical blogs, user guides, workflow documentation, and website content.
+I specialize in creating clear, user-focused technical documentation and content for web and mobile applications. This portfolio showcases my professional work, writing samples, and documentation projects.
 
 ---
 
-## About This Portfolio
+## Core Expertise
 
-This repository showcases my professional work, writing samples, and documentation projects. It reflects my experience, writing approach, and continuous growth as a technical content writer.
+✔ Product Documentation
+
+✔ User Manuals
+
+✔ Technical Blogs
+
+✔ CS-Cart Add-ons Documentation
+
+✔ Magento Extensions Documentation
+
+✔ Website Content
+
+✔ Workflow Documentation
+
+✔ Feature Documentation
+
+✔ Case Studies
+
+✔ Social Media Content
 
 ---
 
-## Repository Structure
+## Portfolio
 
 📁 About
 
@@ -25,5 +47,28 @@ This repository showcases my professional work, writing samples, and documentati
 📁 Documentation
 
 ---
+
+## Tools
+
+- Figma
+- Canva
+- CS-Cart
+- Magento
+- GitHub
+- Markdown
+
+---
+
+## Currently Learning
+
+- Git
+- GitHub
+- Markdown
+
+---
+
+## Contact
+
+📧 Email: **nishagaur3577@gmail.com**
 
 Thank you for visiting my portfolio.
