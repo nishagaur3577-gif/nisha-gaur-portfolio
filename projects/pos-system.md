@@ -1,14 +1,14 @@
 # POS System for CS-Cart Multivendor
 
-## Project Information
+## Project Snapshot
 
-| Details | Description |
-|---------|-------------|
-| Company | Ecarter Technologies Pvt. Ltd. |
-| Platform | CS-Cart |
-| Content Type | Product Documentation |
-| Industry | eCommerce |
-| Status | Published |
+| Category | Details |
+|-----------|----------|
+| 🏢 Company | Ecarter Technologies Pvt. Ltd. |
+| 🛒 Platform | CS-Cart |
+| 📝 Content Type | Product Documentation |
+| 🌐 Industry | eCommerce |
+| 📌 Status | Published |
 
 ---
 
