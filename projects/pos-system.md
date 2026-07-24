@@ -49,8 +49,8 @@ For this project, I was responsible for:
 
 The original article was published by **Ecarter Technologies Pvt. Ltd.**
 
-Published Article:
-
-**https://store.ecarter.co/blogs/cs-cart/pos-system-for-cs-cart-multivendor
+**Published Article:
 **
+https://store.ecarter.co/blogs/cs-cart/pos-system-for-cs-cart-multivendor
+
 > **Note:** This portfolio contains a project summary to showcase my contribution. The original published article remains the intellectual property of Ecarter Technologies Pvt. Ltd.
