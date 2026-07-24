@@ -1,5 +1,7 @@
 # POS System for CS-Cart Multivendor
 
+<img width="1140" height="530" alt="POS banner" src="https://github.com/user-attachments/assets/1f996843-68ce-45dd-ba29-f21d5c0b76a8" />
+
 ## Project Snapshot
 
 | Category | Details |
@@ -9,6 +11,8 @@
 | 📝 Content Type | Product Documentation |
 | 🌐 Industry | eCommerce |
 | 📌 Status | Published |
+
+<img width="1686" height="933" alt="Website main image" src="https://github.com/user-attachments/assets/c6c9dfed-6205-400f-bc6c-face72cc066e" />
 
 ---
 
@@ -41,11 +45,12 @@ For this project, I was responsible for:
 ---
 
 ## Published Work
+<img width="1819" height="865" alt="ChatGPT Image Jul 24, 2026, 07_11_56 AM" src="https://github.com/user-attachments/assets/80501966-d219-4a9c-ba68-e8f4b3d95253" />
 
 The original article was published by **Ecarter Technologies Pvt. Ltd.**
 
-**Published Article:**
+Published Article:
 
-https://store.ecarter.co/blogs/cs-cart/pos-system-for-cs-cart-multivendor
-
+**https://store.ecarter.co/blogs/cs-cart/pos-system-for-cs-cart-multivendor
+**
 > **Note:** This portfolio contains a project summary to showcase my contribution. The original published article remains the intellectual property of Ecarter Technologies Pvt. Ltd.
