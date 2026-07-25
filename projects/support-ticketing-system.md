@@ -32,8 +32,7 @@ The Support Ticket System for CS-Cart helps store owners manage customer queries
 - Reviewed and refined the content before publication
 <img width="1672" height="941" alt="ChatGPT Image Jul 26, 2026, 01_27_06 AM" src="https://github.com/user-attachments/assets/2502986d-1f54-4ee3-80c8-38642f415fbb" />
 
-
-🔗 **Published Article**
+🔗**Published Article**
 https://store.ecarter.co/blogs/cs-cart/cs-cart-support-ticketing-system
 
 ---
@@ -56,7 +55,7 @@ The Support Ticket System for Magento provides a structured way to manage custom
   
 <img width="1672" height="941" alt="ChatGPT Image Jul 26, 2026, 01_32_10 AM" src="https://github.com/user-attachments/assets/3ebb1ac1-ca6c-40b9-aca0-ae935d8ebeb8" />
 
-🔗 **Published Article**
+🔗**Published Article**
 https://store.ecarter.co/blogs/magento/support-ticket-system
 
 ---
