@@ -1,6 +1,6 @@
 # Auction Add-on for CS-Cart
 
-![Auction Add-on Banner](GitHub image upload)
+<img width="1839" height="855" alt="ChatGPT Image Aug 12, 2026, 09_28_29 PM" src="https://github.com/user-attachments/assets/c16a4d4d-4e85-4c19-8dba-5200a08c2777" />
 
 ---
 
@@ -76,6 +76,7 @@ Review & Publication
 ## 🌐 Published Work
 
 The original article was published by **Ecarter Technologies Pvt. Ltd.**
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2026, 08_22_04 AM" src="https://github.com/user-attachments/assets/8e7fc056-7237-463e-a5d7-ddd605c474fa" />
 
 **Published Article:** https://ecarter.co/blogs/cs-cart/cs-cart-auction-addon
 > **Note:** This portfolio contains a project summary to showcase my contribution. The original published article remains the intellectual property of Ecarter Technologies Pvt. Ltd.
