@@ -77,6 +77,7 @@ Review & Publication
 ## 🌐 Published Work
 
 The original article was published by **Ecarter Technologies Pvt. Ltd.**
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2026, 01_38_10 PM" src="https://github.com/user-attachments/assets/9bcdf24c-f9ec-451f-b6a7-eda965738176" />
 
 **Published Article:**
 https://store.ecarter.co/blogs/cs-cart/ecarter-cs-cart-delivery-boy-app-addon
