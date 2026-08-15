@@ -12,6 +12,5 @@ The documentation samples included here are based on my published work for CS-Ca
 
 - POS System 
 - Support Ticketing System addon
-- Vendor Application
 - Auction Add-on
 - Customer Application
